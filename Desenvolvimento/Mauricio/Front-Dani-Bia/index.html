@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <Title>DANI & BIA</Title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <img src="./Teste_FrontEnd/images/logo.png">
+    </div>
+
+    <nav class="navegacao">
+      <ul class="menu">
+        <!-- HREF UTILIZAR SOMENTE EM TAG "a",quando for link -->
+        <button class="link" id="home" href="#">Home</button>
+        <button class="link" id="sobre" href="#">Sobre</button>
+        <button class="link" id="cardapio" href="#">Cardápio</button>
+        <button class="link" id="salao" href="#">Salão</button>
+        <button class="link" id="decoracao" href="#">Decoração</button>
+        <button class="link" id="contato" href="#">Contato</button>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <div class="banner">
+        <div class="img-banner">
+          <img src="./Teste_FrontEnd/images/banner.jpg">
+        </div>
+      </div>
+    </section>
+
+    <section class="ambiente">
+      <div class="cards">
+        <div class="cardapio">
+          <p class="locais"> Conheça Nosso </br><span class="cardapio-span">cardápio</span></p>
+          <img src="./Teste_FrontEnd/images/cardapio.png">
+        </div>
+
+        <div class="brinquedos">
+          <p class="locais"> Conheça Nossos <span class="brinquedos-span">brinquedos</span></p>
+          <img class="img" src="./Teste_FrontEnd/images/foto_brinquedos.jpg">
+        </div>
+
+        <div class="salao">
+          <p class="locais"> Conheça Nosso <span class="salao-span">Salão</span></p>
+          <img class="img" src="./Teste_FrontEnd/images/foto_salao.jpg">
+        </div>
+      </div>
+    </section>
+
+    <section class="descricao">
+      <section class="descricao-missao">
+        <div class="missao">
+          <img src="./Teste_FrontEnd/images/icon_star.png">
+          <h1>dany e bia festas kids</h1>
+        </div>
+
+        <div class="paragrafos">
+          <p>O Buffet Dani & Bia Festas Kids é um espaço lindo para
+            comemorar a festa de seu filho.</p>
+          <p>Nosso coquetel é fresquinho. tudo feito no dia da festa, salgados
+            fritos e assados na hora, lanchinhos, doces e bolos preparados no
+            dia, tudo feito com muito cuidado e carinho para receber seus
+            convidados.</p>
+          <p>Um ambiente íncrivel, onde crianças de todas as idades podem se divertir
+            com muita alegria e segurança.</p>
+        </div>
+      </section>
+      <!-- AVALIAR SEMANTICA DO HTML -->
+      <section class="informacao">
+        <div class="orientacao">
+          <h2>Nós ligamos para você !</h2>
+          <p>Para entrar em contato preencha o formulário que em breve
+            retornaremos.</p>
+        </div>
+        <div class="formulario">
+          <div class="form-nome">
+            <label class="nome" for="nomesobrenome">Nome:</label>
+            <input type="text" id="nome-sobrenome" required>
+          </div>
+
+          <div class="form-tel">
+            <label class="tel" for="telefone">Telefone:</label>
+            <input type="text" id="ddd" required><input type="tel" id="numero-telefone" required>
+          </div>
+
+          <div class="form-email">
+            <label class="email" for="email">Email:</label>
+            <input type="text" id="input-email" required>
+          </div>
+        </div>
+        <div class="enviar">
+           <!-- AVALIAR SEMANTICA DO HTML -->
+          <button class="submit" href="#" imput type="submit" value=enviar>Enviar</button>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-rodape">
+      <div class="img-lat-esq">
+        <img class="estrela-1" src="./Teste_FrontEnd/images/star_footer.png">
+      </div>
+
+      <div class="rodape-central">
+        <ul class="rodape">
+          <li><a class="links" href="#">Home</a></li>
+          <li><a class="links" href="#">Sobre</a></li>
+          <li><a class="links" href="#">Cardápio</a></li>
+          <li><a class="links" href="#">Salão</a></li>
+          <li><a class="links" href="#">Decoração</a></li>
+          <li><a class="links" href="#">Contato</a></li>
+        </ul>
+
+        <div class="centro-rodape">
+          <p>DANI & BIA FESTAS KIDS &copy; 2017 - TODOS OS DIREITOS RESERVADOS</p>
+        </div>
+      </div>
+      <div class="img-lat-dir">
+        <img class="estrela-2" src="./Teste_FrontEnd/images/star_footer.png">
+        <img class="face" src="./Teste_FrontEnd/images/icon_face.png">
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>

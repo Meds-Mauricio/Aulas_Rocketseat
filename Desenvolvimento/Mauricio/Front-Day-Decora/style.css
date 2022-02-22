@@ -1,0 +1,228 @@
+body
+{      
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(./images/background-topo.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+header, main, footer {
+    width: 1024px;
+    background: no-repeat;
+    margin: auto;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    padding: 0 62px;
+}
+
+.topo {
+    display: flex;
+}
+
+.img-cabecalho {
+    margin-top: -8px;
+    padding-right: 18px;
+}
+
+ .contatos p {
+    /* PROPRIEDADES SEM USO */
+    display: flex;
+    padding: 0 0;
+    font-weight: bold;
+    font-size: 22px;
+    color: #fff7ff;
+    flex-direction: column;
+    margin: initial;
+}
+
+nav {  
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 34px;    
+}
+
+.menu {
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    text-transform: uppercase;
+    list-style-type: none;
+    margin-top: 16px;
+    align-items: center;
+    padding: 0;
+}
+
+nav li { 
+    margin: 0 8px;
+    font-weight: bold;
+}
+
+.links {
+    font-weight: bold;
+    color: #fff7ff;
+    text-decoration: none;
+    font-size: 20px;
+    text-shadow: 0 0 6px black;    
+}
+
+#home {
+    background-color: #c86b2a;
+    padding: 3px 1px 3px 5px;
+}
+
+.imagens-central-cabeçalho {
+    /* PROPRIEDADES SEM USO (DISPLAY E ALIGN ITEMS)*/
+    display: flex;
+    align-items: center;
+    padding: 0px 63px;
+}
+
+.imagem-central {
+    /* PROPRIEDADES SEM USO (DISPLAY)*/
+    display: flex;
+    margin-top: 16px;
+} 
+
+.logo {
+    /* ANALISAR MELHORES SOLUÇÕES (NESSE CASO, ZERAR A MARGIN PARA CIMA E PARA BAIXO,E APLICAR UM TOP : 15PX) */
+    position: absolute;
+    margin: -120px 34px;
+}
+
+.descricao {
+    display: flex;
+    color: #fdfcfe;
+    font-weight: bold;
+    align-items: center;
+    background-color: #6e328c;
+    padding: 0 0 36px;
+    flex-direction: column;
+}
+
+.descricao p {
+    margin: 0;
+    font-size: 28px;
+}
+
+main {
+    background-color: #9d3bce;
+    display: flex;    
+    justify-content: center;
+}
+
+.decoracoes {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color:#fcf9fe;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.decoracoes-recentes {
+    display: flex;
+    width: 907px;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+footer {    
+    background-color: #6e328c;    
+} 
+
+.footer-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 21px;
+}
+
+/* LINHAS DESNECESSARIAS,PODERIA TER UTILIZADO A CLASSE FOOTER_AREA */
+.footer-topo {
+      /* PROPRIEDADES SEM USO (DISPLAY)*/
+    display: flex;
+    padding-top: 19px;  /*<---*/
+}
+
+.tarjeta {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    padding: 12px 37px;
+}
+
+.tarjeta h1 {
+    font-size: 16px;
+    text-transform: none;
+    padding-right: 10px;
+}
+
+/* AVALIAR SEMANTICA DO CSS */
+.tarjeta h1 span {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.img-bexigas {
+    padding: 25px;
+}
+.pagina-contatos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.copyrigth {
+    /* PROPRIEDADES SEM USO (FLEX-WRAP)*/
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}  
+
+.copyrigth p,
+.footer-contatos p {
+    margin: 0;
+    color: #e5dcea;
+}
+
+.desenvolvedor {
+     /* PROPRIEDADES SEM USO (align-items)*/
+    display: flex;
+    align-items: center;
+}
+
+.facebook {
+    /* AVALIAR MELHORES SAIDAS */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -16px;
+}
+
+.face{
+    display: flex;
+    align-items: flex-end;
+    text-transform: uppercase;
+    color: #e5dcea;
+}
+
+.face p {
+    padding-left: 10px;
+}
+
+.face img{
+    border-radius: 6px;
+}
+
+.web {
+    position: absolute;
+    padding: 20px 0px 0 65px;
+}
+
+.web a {
+    color: #e5dcea;
+    text-decoration: none;
+}

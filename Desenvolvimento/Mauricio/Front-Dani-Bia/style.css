@@ -1,0 +1,380 @@
+
+    body{      
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    header, main, footer {
+    
+        width: 1366px;
+        background: no-repeat;
+        margin: auto;
+    }
+    
+    .logo {
+        padding: 37px;
+        margin-left: 170px;
+    }
+        
+    header {
+        background-image: url("./Teste_FrontEnd/images/topo.jpg");
+        height: 451px;       
+    }
+
+    .navegacao {
+        display: flex;
+        justify-content: center;
+    }
+
+    .menu {         
+         display: flex;
+         justify-content: center;
+         padding: 104px
+    }
+
+    .link {
+        width: 154px;
+        height: 50px;
+        text-transform: uppercase;
+        font-weight: bold;
+        border-radius: 10px 10px 0 0;
+        border-top: 1px solid white;
+        border-right: 1px solid white;
+        border-left: 1px solid white;
+        border-bottom: none;
+        cursor: pointer;
+    }
+    
+    #home {
+        background-color: #01662c;
+        color: white;
+    }
+
+    #sobre {
+        background-color: #8ebf3f;
+        color: white;
+        text-decoration: none;
+    }
+    
+    #cardapio {
+        background-color: #e77826;
+        color: white;
+        text-decoration: none;
+        padding: 7px;
+    }
+    
+    #salao {
+        background:#3594c0;
+        color: white;
+        text-decoration: none;
+    }
+    
+    #decoracao {
+        background-color: #c20d5c;
+        color: white;
+        text-decoration: none;
+    }
+    
+    #contato {
+        background-color: #91527f;
+        color: white;
+        text-decoration: none;
+    }
+    
+    .banner { 
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+    }
+     
+    .img-banner {
+        margin: -16px;
+    }
+
+    .ambiente {
+        justify-content: center; 
+        /* JUSTIFY CONTENT SEM USAR DISPLAY */
+    }
+
+    /* AVALIAR MELHORES SOLUÇÔES NA HORA DO DISPLAY FLEX */
+    /* AVALIAR MELHORES SOLUÇÔES EM TAMANHOS */
+    .cards {
+        display: flex;
+        justify-content: space-around;        
+        padding: 0px 240px;  
+        height: 140px;  
+        margin-top: -54px;    
+    }   
+       
+    .locais {
+        color: white;
+        text-transform: uppercase;
+        font-size: 23px;
+        text-align: left;
+        text-shadow: 0 0 6px black;
+        width: 151px;
+        height: 97px;
+        margin-left: 13px; 
+    }
+
+    .img {
+        padding: 7px;
+    }
+
+    .cardapio { 
+        background-color: #91527f;    
+        display: flex;
+
+    }
+
+    .cardapio img {
+        padding: 7px 0px 7px;
+    }       
+    
+       
+    .cardapio-span {        
+        font-weight: bold;
+        color:#8ebf3f;              
+        text-shadow: 0 0 6px black;
+        vertical-align: sub;
+    }
+       
+    .brinquedos {
+        background-color: #e77826;
+        display: flex;
+    }
+
+    .brinquedos-span {
+        font-weight: bold;
+        color:#91527f;        
+        text-shadow: 0 0 6px white;
+        vertical-align: sub;
+        font-size: 18px;
+        /* CORRIGIR TAMANHO DA FONTE */
+    }  
+    
+    .salao {        
+        background-color: #8ebf3f;
+        display: flex;
+    }
+
+    .salao-span {        
+        font-weight: bold;
+        color: #eb7d1c;        
+        text-shadow: 0 0 6px white;
+        vertical-align: sub;
+    }
+
+    .descricao {
+        display: flex;
+        padding: 50px 218px;
+        align-content: flex-start;
+    }
+
+    .descricao-missao {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .missao {
+    /* BUSCAR MELHORES SOLUÇÕES E ANALISAR A MELHOR SAIDA */
+        display: flex;
+        align-items: center;
+        margin-top: -27px;
+    }
+    
+    .img-missao {
+        /* CLASSE SEM USO */
+        padding: 7px 6px 15px 0;
+    }
+             
+    h1 {
+        font-size: 26px;
+        text-transform: uppercase;
+        color: #91527f;
+        font-weight: bold; 
+        padding: 8px 0 0 9px;    
+    }  
+
+    .paragrafos {
+        /* BUSCAR MELHORES SOLUÇÕES E ANALISAR A MELHOR SAIDA */
+        padding: 0 25px 0 0;
+        margin-top: -13px;
+        width: 474px;
+    }
+
+    .paragrafos p {
+        /* BUSCAR MELHORES SOLUÇÕES E ANALISAR A MELHOR SAIDA */
+        margin-top: -7px;
+    }
+
+    .informacao {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .orientacao {
+         /* PROPRIEDADES SEM UTILIDADE */
+        display: flex;
+        flex-direction: column;
+        font-size: 18px;
+    }
+
+    .orientacao p {
+        font-size: 15px;
+    }   
+    /* AVALIAR SEMANTICA DO HTML */
+    /* BUSCAR MELHORES SOLUÇÕES E ANALISAR A MELHOR SAIDA */
+     h2 {
+        color:#e77826;
+        margin: 0;
+     } 
+     
+     .formulario {
+        display: flex;
+        flex-wrap: wrap;
+     }
+      
+    .form-nome {
+        display: flex;
+        padding-left: 13px;
+    }
+
+    .nome  {
+        padding: 4px 5px;
+        cursor: pointer;
+    }
+
+    #nome-sobrenome {
+        width: 353px;
+        border: 1px solid #c7bbbb;  
+    }
+
+    .form-tel {
+        display: flex;
+    }
+
+    .tel {
+        margin: 20px 0px;
+    }
+
+    #ddd {
+        margin: 15px 7px;
+        width: 34px;
+        cursor: pointer;
+        border: 1px solid #c7bbbb;  
+    }
+
+    #numero-telefone {
+        width: 173px;
+        margin: 15px 0;
+        border: 1px solid #c7bbbb;  
+        cursor: pointer;
+    }
+
+    .form-email {
+        display: flex;
+        padding: 0 14px;
+    }
+
+    .email {
+        margin: 5px 7px;
+     }          
+       
+
+    #input-email {
+        width: 223px;
+        cursor: pointer; 
+        border: 1px solid #c7bbbb;       
+    }
+    
+    .enviar {
+         /* PROPRIEDADE MAL UTILIZADA,BUSCAR MELHOR SOLUÇÃO,E AVALIAR A SEMANTICA DO MESMO,E ONDE DEVE SE ENCAIXAR */
+        display: flex;
+        align-self: flex-end;
+        margin-top: -44px;
+    }
+
+    .submit {
+        background-color: #e77826;
+        color: white;
+        width: 89px;
+        height: 45px;
+        border: none;
+        cursor: pointer;
+        font-size: 21px;      
+    } 
+
+    .form-email span {
+        /* ERRO GRAVE,NÃO É UMA BOA PRATICA UTILIZAR FONT-SIZE COM MEDIDA NEGATIVA */
+         font-size: -2px;
+    }
+
+    .footer-rodape { 
+        display: flex;
+        background-image: url(./Teste_FrontEnd/images/footer.jpg);
+        height: 196px;
+        margin-top: 56px;
+        flex-wrap: wrap;
+        /* flex-direction: column;
+        /* position: relative; */
+        /* PROPRIEDADES SEM NECESSIDADE */
+        align-content: center;
+    }
+
+    .img-lat-esq {
+        /* MEDIDAS SEM NECESSIDADE,FAZER USO MELHOR DO FLEXBOX */
+        display: flex;
+        justify-content: flex-end;
+        padding: 27px 6px 0 206px;
+    } 
+
+    .rodape-central {
+        display: flex;
+        flex-direction: column;
+        padding-top: 53px ;
+    }    
+    
+    .rodape {
+        display: flex;
+        padding: 3px;
+        justify-content: space-evenly;
+        list-style: none;
+        font-size: x-small;
+    }
+
+     .centro-rodape {
+        display: flex;
+        flex-direction: column;
+    }   
+
+    .rodape a {
+        color: aliceblue;
+        
+    }
+
+    .links {
+        font-size: 12px;
+        text-decoration: none;
+        text-transform: uppercase;
+        cursor: pointer;
+    }
+
+    .centro-rodape p {
+        padding: 0 55px;
+        font-size: x-small;
+        color: aliceblue;
+    }
+      
+
+    .img-lat-dir {
+        /* MEDIDAS SEM NECESSIDADE,FAZER USO MELHOR DO FLEXBOX */
+        display: flex;
+        padding: 29px 200px 0 0;
+        align-items: center;
+    }
+
+    .face {
+        position: absolute;
+        padding: 33px 8px;
+    }

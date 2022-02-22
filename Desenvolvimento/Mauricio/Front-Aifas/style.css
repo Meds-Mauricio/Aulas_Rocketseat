@@ -1,0 +1,329 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.content {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 960px;
+    width: 100%;
+}
+.logo {
+    margin: 2.4em 0;
+}
+
+header { 
+    background: #333333;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;   
+}
+
+.link {
+      color: #fafafa;
+      text-decoration: none;
+}
+
+
+.navegacao {
+    display: flex;  
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    height: 51px;
+    width: 100%;    
+}
+
+.introducao {
+    background-image: url(./images/banner.png);
+    height: 759px;
+    width: 100%;
+    background-size: cover;
+}
+
+.intro-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+.glass {
+    background-image: url(./images/glass.png);
+    width: 508px;
+    height: 218px;
+    padding:18px 30px;
+}
+
+.titulo {
+    font-family: Arial;
+    text-transform: uppercase;
+    font-size: 35px;
+    width: 325px;
+    font-weight: 900;
+    color: #25687f;
+    margin-bottom: 10px;
+    line-height: 44.2px;
+}
+
+.descricao {
+    font-family: arial;
+    font-size: 16px;
+    padding: 7px 52px 0 0;
+    font-weight: 600;
+}
+
+.cards {
+    height: 388px;
+}
+
+.card-container {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    margin: -198px 0;
+}
+
+.seguro {
+    background-image: url(./images/card-1-banner.png);    
+    background-repeat: no-repeat;
+    width: 346px;
+    height: 331px;
+}
+
+.seguro-p {
+    display: grid;
+    width: 221px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    height: 202px;
+    padding: 37px 41px;
+    font-size: 24px;
+    line-height: 26px;
+    color: #ffffff;
+    text-shadow: 1px 2px 8px black;
+}
+
+span {
+    font-size: 15px;
+    line-height: 1;
+}
+
+.seguro strong {
+    margin: 10px 0;
+    font-size: 42px;
+    font-family: monospace;
+    color: #95fe00;
+}
+
+.seguro strong span {
+    width: min-content;
+    font-size: 49px;
+    font-family: monospace;
+    color: #95fe00;
+}
+
+
+.web {
+    background-image: url(./images/card-2-banner.png);
+    background-repeat: no-repeat;
+    width: 343px;
+    height: 330px;
+    padding: 15px;
+}
+
+.web-site {
+    color: #0ba09f;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 30px;
+    width: 204px;
+    text-shadow: 0px -1px 5px white;
+}
+
+.web span {
+    font-size: 40px;
+    color: #e4097d;
+}
+
+.descricao-web {
+    padding: 10px 0;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 213px;
+    line-height: 1.2em;
+    text-shadow: 1px 2px 8px white;
+}
+
+ .niveis{
+    background-image: url(./images/background-correto.png);
+    height: 305px;
+    width: 100%;
+    padding: 70px 40px 0 40px;
+}
+
+
+.grid {
+    display: flex;
+    justify-content: space-between;
+    background:  #ffffff;
+}
+
+.q-head {
+    justify-content:center;
+    display: flex;
+    position: relative;
+    padding: 2rem 0;
+    background:#333333;
+    color: white;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+.medalha {
+    position: absolute;
+    top: -39px;
+}
+
+.quadro {
+    max-width: 25%;
+    width: 100%;
+    border: 1px solid #cccccc;
+    
+}
+
+.q-content {    
+    padding: 15px;     
+}
+
+.g-list {
+    display: flex;
+    height: 45px;
+    font-weight: bold;
+} 
+
+.ticket {
+    width: 20px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+.divulgacao {
+    display: flex;
+    position: relative;
+    height: 250px;
+    margin-top: 250px;
+    justify-content: space-between;
+    max-width: 960px;
+    margin-left: 40px;
+}
+
+.divulgacao-container {
+    display: flex;
+}
+
+.img-viagem {
+    margin-right: 10px;
+}
+
+.contabilidade {
+    background-image: url(./images/card-footer-3.png);
+    background-repeat: no-repeat;
+    width: 344px;
+    height: 332px;
+    margin: 0 5px;
+    text-transform: uppercase;
+    font-family: arial;
+    font-size: 15px;
+    padding-left: 121px;
+}
+
+.contabil {
+    margin: 25% 0;
+    position: absolute;
+    font-size: 26px;
+    font-weight: normal;
+}
+
+.indicacao {
+    margin: 278px 4px;
+    position: absolute;
+    font-size: 11px;
+}
+
+.juridico {
+    margin-left: 10px;
+}
+
+.tarjeta-clube {
+    margin-left: 38px;
+    width: 100%;
+    height: 294px;
+    margin-top: 139px;
+    color: #ffffff;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 23px;
+    margin: -40px 0 0 20px;
+    font-weight: 100;
+}
+
+.descontos img {
+    margin: 55px 8px 0 0;
+    width: 200px;
+    height: 150px;
+    border: 1px solid #CCC;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#saraiva{
+    border: none;
+    height: 153px;
+    padding: 0;
+}
+
+.footer-rodape {background-image: url(./images/background-correto.png);
+    background: #333333;
+    color: #ffffff;
+    margin-top: 38px;
+    width: 1140px;
+}
+
+.rodape {
+    display: flex;
+    display: flex;
+    padding: 25px 31px 47px;
+    font-size: 14px;
+    width: 960px;
+}
+
+.paragrafos {
+    width: 168%;
+}
+
+.paragrafos p {
+    margin-bottom: 15px;
+}
+
+.footerendereco {
+    
+}
+
+
+
