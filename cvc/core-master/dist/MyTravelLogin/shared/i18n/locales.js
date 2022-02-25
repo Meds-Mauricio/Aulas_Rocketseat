@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.LOCALES=void 0;var LOCALES;exports.LOCALES=LOCALES;(function(LOCALES){LOCALES["pt-BR"]="pt-BR";LOCALES["es-AR"]="es-AR"})(LOCALES||(exports.LOCALES=LOCALES={}));
+//# sourceMappingURL=locales.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/ScrollLoader/index.js"],"names":[],"mappings":"wQAAA","sourcesContent":["export { default } from \"./ScrollLoader\";\n"],"file":"index.js"}

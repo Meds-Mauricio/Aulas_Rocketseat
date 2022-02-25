@@ -1,0 +1,36 @@
+declare var _default: React.ComponentType<Pick<Pick<{
+    classes: any;
+    onChange: any;
+    onFocus: any;
+    onClose: any;
+    onSelect: any;
+    value: any;
+    selectedIndex: any;
+    transparent: any;
+    search: any;
+    isMobile: any;
+    error: any;
+    errorMsg: any;
+    history: any;
+    mostSearched: any;
+    destinations: any;
+}, never> & Pick<PropTypes.InferProps<{
+    classes: PropTypes.Validator<object>;
+    search: PropTypes.Requireable<any[]>;
+    history: PropTypes.Requireable<any[]>;
+    mostSearched: PropTypes.Requireable<any[]>;
+    onChange: PropTypes.Requireable<(...args: any[]) => any>;
+    onFocus: PropTypes.Requireable<(...args: any[]) => any>;
+    onClose: PropTypes.Requireable<(...args: any[]) => any>;
+    onSelect: PropTypes.Requireable<(...args: any[]) => any>;
+    value: PropTypes.Requireable<any[]>;
+    selectedIndex: PropTypes.Requireable<number>;
+    transparent: PropTypes.Requireable<boolean>;
+    isMobile: PropTypes.Requireable<boolean>;
+    error: PropTypes.Requireable<boolean>;
+    errorMsg: PropTypes.Requireable<string>;
+    destinations: PropTypes.Requireable<any[]>;
+}>, "classes" | "transparent" | "error" | "isMobile" | "onFocus" | "onChange" | "onSelect" | "onClose" | "value" | "search" | "errorMsg" | "history" | "mostSearched" | "selectedIndex" | "destinations">, "transparent" | "error" | "isMobile" | "onFocus" | "onChange" | "onSelect" | "onClose" | "value" | "search" | "errorMsg" | "history" | "mostSearched" | "selectedIndex" | "destinations"> & import("@material-ui/styles/withStyles/withStyles").StyledComponentProps<"root" | "content" | "flexGrow" | "flex" | "input" | "container" | "closeButton" | "name" | "origin" | "list" | "date" | "scrolling" | "closed" | "listItem" | "rootPkg" | "boxResult" | "inputPkg" | "inputPkgRight" | "inputLabel" | "inputLabelRight" | "listItemTitle" | "adressHotel" | "adress" | "internalInput" | "heightLimit" | "iconAH" | "originField" | "destinyField" | "labelIata" | "labelIataRight" | "labelWhite" | "sublistItem" | "originInput" | "destinyInput" | "nested" | "fieldContainer" | "destinationscontainer" | "destinationField" | "destinationFieldTransparent" | "destinationInput" | "destinationInputLabel">>;
+export default _default;
+import PropTypes from "prop-types";
+import React from "react";

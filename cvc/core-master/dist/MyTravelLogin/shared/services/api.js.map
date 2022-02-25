@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/MyTravelLogin/shared/services/api.ts"],"names":["api","axios","create"],"mappings":"mLAAA,oDAEA,GAAMA,CAAAA,GAAG,CAAGC,kBAAMC,MAAN,EAAZ,C,aACeF,G","sourcesContent":["import axios from \"axios\";\n\nconst api = axios.create();\nexport default api;\n"],"file":"api.js"}

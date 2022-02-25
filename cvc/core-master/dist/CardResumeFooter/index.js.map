@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/CardResumeFooter/index.js"],"names":[],"mappings":"4QAAA","sourcesContent":["export { default } from \"./CardResumeFooter\";\n"],"file":"index.js"}

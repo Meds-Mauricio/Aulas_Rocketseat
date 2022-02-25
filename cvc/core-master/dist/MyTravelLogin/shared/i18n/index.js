@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"I18nProvider",{enumerable:true,get:function get(){return _provider["default"]}});Object.defineProperty(exports,"LOCALES",{enumerable:true,get:function get(){return _locales.LOCALES}});var _provider=_interopRequireDefault(require("./provider"));var _locales=require("./locales");
+//# sourceMappingURL=index.js.map

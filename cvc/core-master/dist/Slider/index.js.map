@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Slider/index.js"],"names":[],"mappings":"kQAAA","sourcesContent":["export { default } from \"./Slider\";\n"],"file":"index.js"}

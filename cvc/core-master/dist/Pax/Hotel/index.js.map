@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/Pax/Hotel/index.js"],"names":[],"mappings":"iQAAA","sourcesContent":["export { default } from \"./Hotel\";\n"],"file":"index.js"}

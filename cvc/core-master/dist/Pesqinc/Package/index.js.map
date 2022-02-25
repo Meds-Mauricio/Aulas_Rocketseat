@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/Pesqinc/Package/index.js"],"names":[],"mappings":"0QAAA","sourcesContent":["export { default } from \"./PesqincPackage\";\n"],"file":"index.js"}

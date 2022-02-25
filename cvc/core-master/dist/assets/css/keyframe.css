@@ -1,0 +1,51 @@
+@-webkit-keyframes Loading {
+	 0% {
+		 background-position: 0% 92%;
+	}
+	 50% {
+		 background-position: 100% 9%;
+	}
+	 100% {
+		 background-position: 0% 92%;
+	}
+}
+
+@keyframes Loading {
+	 0% {
+		 background-position: 0% 92%;
+	}
+	 100% {
+		 background-position: 100% 9%;
+	}
+}
+
+@keyframes ellipsis1 {
+	 from {
+		 transform: scale(0);
+		 opacity: 0.4;
+	}
+	 to {
+		 transform: scale(1);
+		 opacity: 1;
+	}
+}
+
+@keyframes ellipsis3 {
+	 from {
+		 transform: scale(1);
+	}
+	 to {
+		 transform: scale(0);
+	}
+}
+
+@keyframes ellipsis2 {
+	 from {
+		 transform: translate(0, 0);
+		 opacity: 0.7;
+	}
+	 to {
+		 transform: translate(19px, 0);
+		 opacity: 1;
+	}
+}

@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var UnverifiedAccountESAR={title:"Tu cuenta no esta verificada",subTitle:"Identificamos que {email} ya tiene una cuenta creada pero aun falta verificar el email.",verifyNow:"Verif\xEDcalo ahora, es r\xE1pido!",textBtn:" Verificar email"};var _default=UnverifiedAccountESAR;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

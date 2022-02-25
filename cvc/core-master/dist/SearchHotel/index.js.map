@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/SearchHotel/index.js"],"names":[],"mappings":"uQAAA","sourcesContent":["export { default } from \"./SearchHotel\";\n"],"file":"index.js"}

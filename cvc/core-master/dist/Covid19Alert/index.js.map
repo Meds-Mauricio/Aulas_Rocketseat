@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Covid19Alert/index.js"],"names":[],"mappings":"wQAAA","sourcesContent":["export { default } from \"./Covid19Alert\";\n"],"file":"index.js"}

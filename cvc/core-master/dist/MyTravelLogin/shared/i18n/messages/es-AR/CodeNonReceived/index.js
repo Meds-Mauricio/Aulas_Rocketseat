@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var CodeNonReceivedESAR={title:"No recibiste el c\xF3digo?",subTitle:"Enviaremos un c\xF3digo de verificaci\xF3n a {email}.",caution:"Aten\xE7\xE3o: Caso n\xE3o tenha recebido, consulte a caixa de spam ou lixo eletr\xF4nico",linkChangeEmail:"cambiar email",actionButton:"REENVIAR EL C\xD3DIGO"};var _default=CodeNonReceivedESAR;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"default",{enumerable:true,get:function get(){return _SeoText["default"]}});var _SeoText=_interopRequireDefault(require("./SeoText"));
+//# sourceMappingURL=index.js.map

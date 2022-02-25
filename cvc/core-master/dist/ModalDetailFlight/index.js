@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"default",{enumerable:true,get:function get(){return _ModalDetailFlight["default"]}});var _ModalDetailFlight=_interopRequireDefault(require("./ModalDetailFlight"));
+//# sourceMappingURL=index.js.map

@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.useStyles=void 0;var _styles=require("@material-ui/styles");var useStyles=(0,_styles.makeStyles)(function(){return(0,_styles.createStyles)({root:{padding:0},optionsCheckboxes:{display:"flex",alignItems:"center",justifyContent:"space-between"}})});exports.useStyles=useStyles;
+//# sourceMappingURL=styles.js.map

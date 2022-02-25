@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(theme){return{root:{width:"100%",height:"100%"},paddingTop:{paddingTop:theme.spacing(2)},textCenter:{textAlign:"center"}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"default",{enumerable:true,get:function get(){return _Banners["default"]}});var _Banners=_interopRequireDefault(require("./Banners"));
+//# sourceMappingURL=index.js.map

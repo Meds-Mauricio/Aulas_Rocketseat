@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(theme){return{root:{},message:{width:"100%"},error:{background:"".concat(theme.palette.error.main)},success:{background:"".concat(theme.palette.success.main)},content:{alignItems:"center",display:"flex",justifyContent:"space-between"},text:{alignItems:"center",display:"flex"},closeButton:{cursor:"pointer",color:"#fff",background:"transparent",border:"0"},spacing:{marginRight:"10px"}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

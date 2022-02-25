@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/ModalDetailFlight/index.js"],"names":[],"mappings":"6QAAA","sourcesContent":["export { default } from \"./ModalDetailFlight\";\n"],"file":"index.js"}

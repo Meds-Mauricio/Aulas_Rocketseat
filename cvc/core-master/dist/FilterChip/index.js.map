@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/FilterChip/index.js"],"names":[],"mappings":"sQAAA","sourcesContent":["export { default } from \"./FilterChip\";\n"],"file":"index.js"}

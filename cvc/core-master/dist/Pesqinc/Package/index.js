@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"default",{enumerable:true,get:function get(){return _PesqincPackage["default"]}});var _PesqincPackage=_interopRequireDefault(require("./PesqincPackage"));
+//# sourceMappingURL=index.js.map

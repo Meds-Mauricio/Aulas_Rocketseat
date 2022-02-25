@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Badge/index.js"],"names":[],"mappings":"iQAAA","sourcesContent":["export { default } from \"./Badge\";\n"],"file":"index.js"}

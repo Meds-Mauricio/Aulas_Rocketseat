@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Stars/index.js"],"names":[],"mappings":"iQAAA","sourcesContent":["export { default } from \"./Stars\";\n"],"file":"index.js"}

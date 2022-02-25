@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _styles=require("@material-ui/core/styles");var useStyles=(0,_styles.makeStyles)(function(theme){return{actionButtons:{display:"flex",flexDirection:"row",alignItems:"center",justifyContent:"space-between",width:"100%","&>button":{background:"none",border:"none",cursor:"pointer",outline:"none"}},headerLoginWrapper:{position:"absolute",width:"95%",top:"15px"}}});var _default=useStyles;exports["default"]=_default;
+//# sourceMappingURL=styles.js.map

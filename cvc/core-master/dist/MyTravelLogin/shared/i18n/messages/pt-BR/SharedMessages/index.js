@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var SharedMessages={errorEmail:"E-mail inv\xE1lido. Digite corretamente"};var _default=SharedMessages;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

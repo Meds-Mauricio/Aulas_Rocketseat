@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=getValidationErrors;function getValidationErrors(err){var validationErrors={};err.inner.forEach(function(error){if(error.path){validationErrors[error.path]=error.message}});return validationErrors}
+//# sourceMappingURL=getValidationErrors.js.map

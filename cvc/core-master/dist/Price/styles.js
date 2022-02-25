@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(theme){return{root:{},hotel:{color:"".concat(theme.palette.spot.main," !important")},"package":{color:"".concat(theme.palette["package"].main," !important")},oldPrice:{textDecoration:"line-through","&.price_hotel":{textDecorationColor:"".concat(theme.palette.spot.main)},"&.price_package":{textDecorationColor:"".concat(theme.palette["package"].main)}}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

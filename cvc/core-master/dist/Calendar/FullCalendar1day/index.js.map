@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/Calendar/FullCalendar1day/index.js"],"names":[],"mappings":"4QAAA","sourcesContent":["export { default } from \"./FullCalendar1day\";\n"],"file":"index.js"}

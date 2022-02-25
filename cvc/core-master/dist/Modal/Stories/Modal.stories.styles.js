@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.themeOverWrites=void 0;var themeOverWrites=function themeOverWrites(theme){return{whiteBg:{background:theme.palette.background["default"],boxShadow:theme.shadows[8],padding:"30px"},darkBg:{background:"rgba(0, 0, 0, 0.6)",boxShadow:theme.shadows[8],color:"#fff",padding:"30px"}}};exports.themeOverWrites=themeOverWrites;
+//# sourceMappingURL=Modal.stories.styles.js.map

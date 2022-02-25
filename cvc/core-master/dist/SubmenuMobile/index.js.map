@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/SubmenuMobile/index.js"],"names":[],"mappings":"yQAAA","sourcesContent":["export { default } from \"./SubmenuMobile\";\n"],"file":"index.js"}

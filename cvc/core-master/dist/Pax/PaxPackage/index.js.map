@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/Pax/PaxPackage/index.js"],"names":[],"mappings":"sQAAA","sourcesContent":["export { default } from \"./PaxPackage\";\n"],"file":"index.js"}

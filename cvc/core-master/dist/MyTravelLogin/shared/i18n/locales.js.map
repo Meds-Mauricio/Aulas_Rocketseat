@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/MyTravelLogin/shared/i18n/locales.tsx"],"names":["LOCALES"],"mappings":"gGAAYA,CAAAA,O,mCAAAA,O,EAAAA,O,kBAAAA,O,oBAAAA,O,mBAAAA,O","sourcesContent":["export enum LOCALES {\n  \"pt-BR\" = \"pt-BR\",\n  \"es-AR\" = \"es-AR\",\n}\n"],"file":"locales.js"}

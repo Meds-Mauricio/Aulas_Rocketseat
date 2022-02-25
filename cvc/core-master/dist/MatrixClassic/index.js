@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"default",{enumerable:true,get:function get(){return _MatrixClassic["default"]}});var _MatrixClassic=_interopRequireDefault(require("./MatrixClassic"));
+//# sourceMappingURL=index.js.map

@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});exports.GAFactory=void 0;var _GAEvents=_interopRequireDefault(require("./GAEvents"));var keys={"aluguel-casas":function aluguelCasas(){_GAEvents["default"].SaveAluguelCasa()}};var GAFactory=function GAFactory(name){try{if(name){var item=keys[name];if(item)item()}}catch(err){console.error("error send to ga")}};exports.GAFactory=GAFactory;
+//# sourceMappingURL=GAFactory.js.map

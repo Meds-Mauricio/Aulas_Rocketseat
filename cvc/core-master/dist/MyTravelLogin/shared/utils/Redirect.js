@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=Redirect;var _BrandContextProvider=require("../../../BrandContext/BrandContextProvider");function Redirect(){return(0,_BrandContextProvider.getHostName)().hostname.includes("local")?"https://ti.submarinoviagens.com.br/mytravels/reservations":"https://".concat((0,_BrandContextProvider.getHostName)().hostname)}
+//# sourceMappingURL=Redirect.js.map

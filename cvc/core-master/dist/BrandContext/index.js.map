@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/BrandContext/index.ts"],"names":[],"mappings":"0UAAA,4CACA","sourcesContent":["import { BrandContext } from \"./BrandContext\";\nimport { BrandContextProvider } from \"./BrandContextProvider\";\n\nexport { BrandContext, BrandContextProvider };\n"],"file":"index.js"}

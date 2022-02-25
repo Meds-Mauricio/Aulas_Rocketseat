@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/SearchPackage/index.js"],"names":[],"mappings":"yQAAA","sourcesContent":["export { default } from \"./SearchPackage\";\n"],"file":"index.js"}

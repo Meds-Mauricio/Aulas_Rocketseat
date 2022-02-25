@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Newsletter/index.js"],"names":[],"mappings":"sQAAA","sourcesContent":["export { default } from \"./Newsletter\";\n"],"file":"index.js"}

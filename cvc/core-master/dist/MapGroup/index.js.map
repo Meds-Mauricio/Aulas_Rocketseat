@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/MapGroup/index.js"],"names":[],"mappings":"oQAAA","sourcesContent":["export { default } from \"./MapGroup\";\n"],"file":"index.js"}

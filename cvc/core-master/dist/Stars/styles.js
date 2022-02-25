@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(theme){return{filled:{color:theme.palette.secondary.main},empty:{color:theme.palette.greyscale[3]},disabled:{color:theme.palette.grey[50]}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

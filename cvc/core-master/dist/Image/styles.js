@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(theme){return{img:{"max-width":"100%","max-height":"100%"}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

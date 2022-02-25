@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/Room/Price/index.js"],"names":[],"mappings":"iQAAA","sourcesContent":["export { default } from \"./Price\";\n"],"file":"index.js"}

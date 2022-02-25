@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/Calendar/Calendar2days/index.js"],"names":[],"mappings":"yQAAA","sourcesContent":["export { default } from \"./Calendar2days\";\n"],"file":"index.js"}

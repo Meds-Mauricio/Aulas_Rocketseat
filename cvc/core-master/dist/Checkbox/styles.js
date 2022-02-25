@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(_ref){var spacing=_ref.spacing,palette=_ref.palette;return{root:{marginLeft:spacing(1)*-1},rootInverted:{color:"".concat(palette.white.main," !important")},checkbox:{padding:spacing(1)},checkboxInverted:{color:"".concat(palette.white.main)},disabled:{color:"".concat(palette.grey[50]," !important")}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

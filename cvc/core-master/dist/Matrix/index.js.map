@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Matrix/index.js"],"names":[],"mappings":"kQAAA","sourcesContent":["export { default } from \"./Matrix\";\n"],"file":"index.js"}

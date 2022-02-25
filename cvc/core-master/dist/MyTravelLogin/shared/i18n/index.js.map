@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/MyTravelLogin/shared/i18n/index.tsx"],"names":[],"mappings":"gXAAA,4DACA","sourcesContent":["export { default as I18nProvider } from \"./provider\";\nexport { LOCALES } from \"./locales\";\n"],"file":"index.js"}

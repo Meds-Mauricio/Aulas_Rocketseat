@@ -1,0 +1,40 @@
+declare var _default: React.ComponentType<Pick<Pick<{
+    classes: any;
+    onClick: any;
+    thumb: any;
+    title: any;
+    onDetail: any;
+    about: any;
+    amenities: any;
+    options: any;
+    product: any;
+    pax: any;
+    days: any;
+}, never> & Pick<PropTypes.InferProps<{
+    classes: PropTypes.Validator<object>;
+    onClick: PropTypes.Requireable<(...args: any[]) => any>;
+    thumb: PropTypes.Requireable<string>;
+    title: PropTypes.Validator<string>;
+    product: PropTypes.Validator<string>;
+    pax: PropTypes.Requireable<string | number>;
+    days: PropTypes.Validator<string | number>;
+    onDetail: PropTypes.Validator<(...args: any[]) => any>;
+    about: PropTypes.Requireable<string>;
+    amenities: PropTypes.Requireable<any[]>;
+    options: PropTypes.Validator<any[]>;
+}>, "onClick" | "about" | "amenities" | "thumb" | "pax" | PropTypes.RequiredKeys<{
+    classes: PropTypes.Validator<object>;
+    onClick: PropTypes.Requireable<(...args: any[]) => any>;
+    thumb: PropTypes.Requireable<string>;
+    title: PropTypes.Validator<string>;
+    product: PropTypes.Validator<string>;
+    pax: PropTypes.Requireable<string | number>;
+    days: PropTypes.Validator<string | number>;
+    onDetail: PropTypes.Validator<(...args: any[]) => any>;
+    about: PropTypes.Requireable<string>;
+    amenities: PropTypes.Requireable<any[]>;
+    options: PropTypes.Validator<any[]>;
+}>>, "onClick" | "title" | "about" | "amenities" | "days" | "product" | "options" | "thumb" | "pax" | "onDetail"> & import("@material-ui/styles/withStyles/withStyles").StyledComponentProps<"root" | "content" | "footer" | "title" | "about" | "price" | "imgContainer" | "info" | "thumb" | "detailBtn" | "infoContainer" | "footerITem" | "infoHeader" | "infoTitle" | "aboutText">>;
+export default _default;
+import PropTypes from "prop-types";
+import React from "react";

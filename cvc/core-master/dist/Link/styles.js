@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.styles=void 0;var styles=function styles(theme){return{link:{color:theme.palette.primary.main,fontFamily:theme.font.regular,fontSize:"14px",textDecoration:"none","&:hover":{textDecoration:"underline"}},disabled:{color:theme.palette.text.disabled}}};exports.styles=styles;
+//# sourceMappingURL=styles.js.map

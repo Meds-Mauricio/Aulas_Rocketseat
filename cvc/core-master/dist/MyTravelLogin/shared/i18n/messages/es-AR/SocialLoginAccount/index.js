@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var SocialLoginAccountESAR={title:"Ya tenes una cuenta creada!",subTitle:"Podes entrar cliqueando en tu red social o creando una nueva cuenta para el mail",linkChangeEmail:"cambiar email",btn:"Registrate"};var _default=SocialLoginAccountESAR;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/MatrixClassic/index.js"],"names":[],"mappings":"yQAAA","sourcesContent":["export { default } from \"./MatrixClassic\";\n"],"file":"index.js"}

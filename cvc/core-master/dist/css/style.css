@@ -1,0 +1,14 @@
+@font-face {
+  font-family: HindMRegular;
+  src: url('../assets/fonts/hindmadurai/HindMadurai-Regular.ttf');
+}
+
+@font-face {
+  font-family: HindMSemiBold;
+  src: url('../assets/fonts/hindmadurai/HindMadurai-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: HindMBold;
+  src: url('../assets/fonts/hindmadurai/HindMadurai-Bold.ttf');
+}

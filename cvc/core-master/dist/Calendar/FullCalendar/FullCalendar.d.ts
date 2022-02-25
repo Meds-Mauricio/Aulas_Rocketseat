@@ -1,0 +1,50 @@
+declare var _default: React.ComponentType<Pick<Pick<{
+    isOutsideRange: any;
+    minDate: any;
+    maxDate: any;
+    classes: any;
+    startDateInitial: any;
+    endDateInitial: any;
+    applyLabel: any;
+    originLabel: any;
+    destinyLabel: any;
+    isMobile: any;
+    onDatesChange: any;
+    onOpen: any;
+    onClose: any;
+    isOpen: any;
+    error: any;
+    errorMsg: any;
+    activeTextStart: any;
+    activeTextEnd: any;
+}, never> & Pick<PropTypes.InferProps<{
+    classes: PropTypes.Validator<object>;
+    onDatesChange: PropTypes.Validator<(...args: any[]) => any>;
+    isOutsideRange: PropTypes.Requireable<number>;
+}>, "isOutsideRange" | PropTypes.RequiredKeys<{
+    classes: PropTypes.Validator<object>;
+    onDatesChange: PropTypes.Validator<(...args: any[]) => any>;
+    isOutsideRange: PropTypes.Requireable<number>;
+}>> & Pick<{
+    isOutsideRange: any;
+    minDate: any;
+    maxDate: any;
+    classes: any;
+    startDateInitial: any;
+    endDateInitial: any;
+    applyLabel: any;
+    originLabel: any;
+    destinyLabel: any;
+    isMobile: any;
+    onDatesChange: any;
+    onOpen: any;
+    onClose: any;
+    isOpen: any;
+    error: any;
+    errorMsg: any;
+    activeTextStart: any;
+    activeTextEnd: any;
+}, "error" | "isMobile" | "onClose" | "onOpen" | "isOpen" | "minDate" | "maxDate" | "errorMsg" | "startDateInitial" | "endDateInitial" | "applyLabel" | "originLabel" | "destinyLabel" | "activeTextStart" | "activeTextEnd">, "error" | "isMobile" | "onClose" | "onOpen" | "isOpen" | "isOutsideRange" | "minDate" | "maxDate" | "onDatesChange" | "errorMsg" | "startDateInitial" | "endDateInitial" | "applyLabel" | "originLabel" | "destinyLabel" | "activeTextStart" | "activeTextEnd"> & import("@material-ui/styles/withStyles/withStyles").StyledComponentProps<"content" | "icon" | "separator" | "footer" | "header" | "input" | "title" | "container" | "btnApply" | "dates" | "containerDates" | "calendar" | "closed" | "headerMob" | "itensHeader" | "itensHeaderMob" | "containerBtn" | "calendarIcon" | "buttonClear" | "datesMob" | "datesItem" | "dateInput" | "showFooter" | "footerContainer" | "footerDayCounter" | "footerConfirmButton" | "inputInside" | "inputMobile" | "inputRight" | "inputLeft" | "rootInput" | "dateSeparator" | "inputDate" | "inputRadius" | "inputRadiusMobile">>;
+export default _default;
+import PropTypes from "prop-types";
+import React from "react";

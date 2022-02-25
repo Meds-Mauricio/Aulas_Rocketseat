@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var ForgotPasswordESAR={title:"Olvidaste tu contrase\xF1a?",subTitle:"Confirm\xE1 tu email y recuper\xE1 tu contrase\xF1a",linkChangeEmail:"Cambiar email",actionButton:"RECUPERAR CONTRASE\xD1A"};var _default=ForgotPasswordESAR;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

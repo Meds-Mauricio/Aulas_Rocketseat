@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/CoreHeader/index.js"],"names":[],"mappings":"sQAAA","sourcesContent":["import CoreHeader from \"./CoreHeader\";\n\nexport { CoreHeader as default };\n"],"file":"index.js"}

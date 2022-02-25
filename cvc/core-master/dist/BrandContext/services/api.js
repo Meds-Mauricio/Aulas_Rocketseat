@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _axios=_interopRequireDefault(require("axios"));var api=_axios["default"].create();var _default=api;exports["default"]=_default;
+//# sourceMappingURL=api.js.map

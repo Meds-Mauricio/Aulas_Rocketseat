@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/CustomChip/index.js"],"names":[],"mappings":"sQAAA","sourcesContent":["export { default } from \"./CustomChip\";\n"],"file":"index.js"}

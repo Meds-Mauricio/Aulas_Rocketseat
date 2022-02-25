@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");var _enzyme=require("enzyme");var _enzymeAdapterReact=_interopRequireDefault(require("enzyme-adapter-react-16"));/* eslint-disable no-unused-expressions */(0,_enzyme.configure)({adapter:new _enzymeAdapterReact["default"]});window&&(window.matchMedia=window.matchMedia||function(){return{matches:false,addListener:function addListener(){},removeListener:function removeListener(){}}});
+//# sourceMappingURL=setupTests.js.map

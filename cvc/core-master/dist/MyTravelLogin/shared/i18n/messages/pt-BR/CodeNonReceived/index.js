@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var CodeNonReceivedPTBR={title:"Reenvio do c\xF3digo",subTitle:"Enviaremos um c\xF3digo de verifica\xE7\xE3o para {email}.",caution:"Aten\xE7\xE3o: Caso n\xE3o tenha recebido, consulte a caixa de spam ou lixo eletr\xF4nico",linkChangeEmail:"Alterar e-mail",actionButton:"REENVIAR C\xD3DIGO"};var _default=CodeNonReceivedPTBR;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

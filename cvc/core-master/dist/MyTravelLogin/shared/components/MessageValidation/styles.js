@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _styles=require("@material-ui/core/styles");var useStyles=(0,_styles.makeStyles)(function(){return{root:{},errorWrapper:{fontFamily:"HindMRegular",display:"flex",alignItems:"center",justifyContent:"flex-end",textAlign:"right",fontSize:12,width:"100%"},isError:{color:"#FF3344"},isInfo:{color:"#237FD0",textAlign:"right"},icon:{marginRight:5,width:"17px",height:"17px"}}});var _default=useStyles;exports["default"]=_default;
+//# sourceMappingURL=styles.js.map

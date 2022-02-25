@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var SocialLoginAccountPTBR={title:"Voc\xEA j\xE1 possu\xED uma conta!",subTitle:"Para acessar a sua conta reutilize o seu social login ou crie uma nova conta utilizando o e-mail",linkChangeEmail:"Alterar e-mail",btn:"Criar uma nova conta"};var _default=SocialLoginAccountPTBR;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

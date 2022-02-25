@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Amenities/index.js"],"names":[],"mappings":"qQAAA","sourcesContent":["export { default } from \"./Amenities\";\n"],"file":"index.js"}

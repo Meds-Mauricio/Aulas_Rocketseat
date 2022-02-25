@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/DownloadApp/index.js"],"names":[],"mappings":"uQAAA","sourcesContent":["export { default } from \"./DownloadApp\";\n"],"file":"index.js"}

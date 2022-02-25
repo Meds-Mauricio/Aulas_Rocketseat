@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/GenericModal/index.ts"],"names":[],"mappings":"wQAAA","sourcesContent":["export { default } from \"./GenericModal\";\n"],"file":"index.js"}

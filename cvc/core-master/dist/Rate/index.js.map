@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Rate/index.js"],"names":[],"mappings":"gQAAA","sourcesContent":["export { default } from \"./Rate\";\n"],"file":"index.js"}

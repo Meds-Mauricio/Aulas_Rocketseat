@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Header/index.js"],"names":[],"mappings":"oXAAA,wDACA","sourcesContent":["import Header from \"./Header\";\nimport HeaderBlock from \"./HeaderBlock\";\n\nexport {\n    Header as default, HeaderBlock\n};\n"],"file":"index.js"}

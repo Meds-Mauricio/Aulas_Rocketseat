@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Footer/index.js"],"names":[],"mappings":"kQAAA","sourcesContent":["export { default } from \"./Footer\";\n"],"file":"index.js"}

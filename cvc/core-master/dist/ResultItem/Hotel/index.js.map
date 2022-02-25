@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/ResultItem/Hotel/index.js"],"names":[],"mappings":"sQAAA","sourcesContent":["export { default } from \"./ResultItem\";\n"],"file":"index.js"}

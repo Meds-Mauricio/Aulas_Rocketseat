@@ -1,0 +1,2 @@
+"use strict";var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _esAR=_interopRequireDefault(require("./es-AR"));var _ptBR=_interopRequireDefault(require("./pt-BR"));var languages={"pt-BR":_ptBR["default"],"es-AR":_esAR["default"]};var _default=languages;exports["default"]=_default;
+//# sourceMappingURL=index.js.map

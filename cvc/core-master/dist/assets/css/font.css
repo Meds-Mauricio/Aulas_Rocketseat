@@ -1,0 +1,17 @@
+@font-face {
+  font-display: fallback;
+  font-family: HindMRegular;
+  src: url("../fonts/hindmadurai/HindMadurai-Regular.ttf");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: HindMBold;
+  src: url("../fonts/hindmadurai/HindMadurai-Bold.ttf");
+}
+
+@font-face {
+    font-display: fallback;
+    font-family: HindMSemiBold;
+    src: url("../fonts/hindmadurai/HindMadurai-SemiBold.ttf");
+}
